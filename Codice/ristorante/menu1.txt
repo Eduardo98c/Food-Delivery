@@ -1,0 +1,12 @@
+Pappardelle ai funghi porcini@6; 
+Spaghetti aglio olio e peperoncino@7;
+Pennette alla boscaiola@7.5;
+Spaghetti cacio e pepe@10;
+Pappardelle al ragu' di anatra@12;
+Creme Caramel@4;
+Panna Cotta@4;
+vino Negroamaro@15;
+vino Nerostella@12;
+coca cola@3;
+fanta@3;
+acqua minerale@2
